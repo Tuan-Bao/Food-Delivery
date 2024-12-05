@@ -1,0 +1,5 @@
+# Bỏ qua thư mục node_modules trong tất cả các thư mục con
+**/node_modules
+
+# Bỏ qua tệp .env trong thư mục backend
+backend/.env
